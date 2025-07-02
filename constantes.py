@@ -11,9 +11,10 @@ FPS = 60
 WIDTH_PLAYER = 20
 HEIGHT_PLAYER = 20
 PLAYER_SPEED = 5
+SCALA_PLAYER = 0.2
 
 # Obstacles
 
 color_obstacle = (0, 255, 0)
-
+color_obstacle_2 = (255, 255, 255)
 

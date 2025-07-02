@@ -4,7 +4,9 @@
 
  Requerimientos:
  
-1.  El personaje debe moverse con las flechas del teclado 
+1.  El personaje debe moverse con las flechas del teclado - Completado
+
+
 2.  Fantasmas movimiento:
 Cada fantasma, con sus nombres y colores característicos, persigue a Pac-Man de manera diferente: Blinky (rojo) persigue directamente a Pac-Man, Pinky (rosa) intenta interceptarlo, Inky (azul) se mueve de forma más errática y Clyde (naranja) a veces persigue y a veces se aleja, según su posición relativa a Pac-Man
 
@@ -15,4 +17,7 @@ Se estableceran niveles con monedas blancas, el personaje las comera y cada vez 
 Los power ups se generaran aleatoriamente una vez el personaje: 
 Recoja un numero definido de monedas
 Se generaran de manera automatica con el tiempo
+
+5. Mapas:
+Se deben generar mapas originales de pac-mans
 
